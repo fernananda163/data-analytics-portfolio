@@ -52,6 +52,10 @@ The analysis identifies top-performing products and categories, compares revenue
 
 **Key Metrics:** Total Revenue, Units Sold, Revenue by Product, Revenue by Category, and Average Order Value.
 
+### 📊 ShopScope Visualization
+
+![Revenue by Product](https://github.com/fernananda163/shopscope-sql-analytics-/raw/refs/heads/main/revenue_by_product.png)
+ Copiar código
 ---
 
 ## 🛠️ Technical Skills
