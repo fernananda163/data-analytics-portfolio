@@ -28,7 +28,9 @@ The project evaluates revenue, advertising efficiency, conversion performance, a
 
 **Key Metrics:** CTR, Conversion Rate, CPC, CPA, and ROAS.
 
----
+### 📊 MarketPulse Visualization
+![CPA by Marketing Channel](https://github.com/fernananda163/marketpulse-analytics-/raw/refs/heads/main/marketing%20chanel.png)
+ Copiar
 
 ### 🛒 [ShopScope SQL Analytics](https://github.com/fernananda163/shopscope-sql-analytics-)
 
